@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'cindacta_odonto',
         'USER': 'root',
-        'PASSWORD': '55361316',
+        'PASSWORD': 'root',
         'HOST': 'localhost',
         'PORT': '3306',
     }
